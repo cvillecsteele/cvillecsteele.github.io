@@ -4,13 +4,11 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Feel free to reach Spectrum Music via email or phone.  Lessons are typically scheduled after 3pm, but daytime slots are also available on select days and weekends.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Length    | Price |
+| --------- | ----- |
+| 30 mins   | $45   |
+| 45 mins   | $55   |
+| 60 mins   | $65   |
+

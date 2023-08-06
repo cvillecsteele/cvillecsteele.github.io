@@ -20,14 +20,14 @@ bodyClass: "page-services"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for service in site.services %}
+    {% for testimonial in site.testimonials %}
     <div class="col-12 col-md-6 mb-3">
-      <div class="service service-summary">
-        <div class="service-content">
-          <h2 class="service-title">
-            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+      <div class="testimonial testimonial-summary">
+        <div class="testimonial-content">
+          <h2 class="testimonial-title">
+            <a href="{{ testimonial.url | relative_url }}">{{ testimonial.title }}</a>
           </h2>
-          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ testimonial.content | markdownify | strip_html | truncate: 200 }}</p>
         </div>
       </div>
     </div>
