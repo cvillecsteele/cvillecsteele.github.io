@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: 'Spectrum Music Labs'
+destination: docs/
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
