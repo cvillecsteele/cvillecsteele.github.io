@@ -8,6 +8,12 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
+  - name: "Signup"
+    url: "/signup/"
+    weight: 5
+  - name: "Portal"
+    url: "/portal/"
+    weight: 5
 
 footer:
   - name: "Home"

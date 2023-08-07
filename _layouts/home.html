@@ -68,18 +68,16 @@ bodyClass: "page-home"
   </div>
 </div>
 
-
-{% if false %}
-<div class="intro">
-  <div class="container">
-    <div class="row justify-content-start">
-      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-        {% if page.show_call_box %}
-          {% include call.html show_button=true %}
-        {% endif %}
-      </div>
+<div class="strip">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
+      <p>Ready to start?  Click the button to sign up and begin your journey.</p>
+    </div>
+    <div class="row justify-content-center">
+      <a href="{{ site.data.signup.signup_button_link }}" class="button">Sign Up</a>
     </div>
   </div>
 </div>
-{% endif %}
+
+
 
